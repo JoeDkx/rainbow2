@@ -1,3 +1,7 @@
 red is the 1st color of the rainbow
+<<<<<<< HEAD
 orange is the 2nd color of the rainbow
 yellow is the 3rd color
+=======
+orange is the 2nd color of the rainbow.
+>>>>>>> feature
